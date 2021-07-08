@@ -4,3 +4,5 @@ Hola todos.
 
 Tengo 26 años.
 Nací en la ciudad de Bogotá D.C. Colombia.
+
+> espacio para que el segundo usuario escriba su parte <
